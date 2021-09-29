@@ -2,11 +2,9 @@
 ![Header](https://github.com/Glebbs/Glebbs/blob/main/Banner.png)
 
 ## A few about me:
-1) I'm a beginner Software Engineer
+1) I'm a beginner Computer Vision Engineer
 2) Third-year student
 3) I'm studying in the direction of applied mathematics and computer science
-4) Winner of the Cryptography Olympiad
-
 
 ## Languages & Frameworks
 
