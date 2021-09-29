@@ -1,5 +1,5 @@
 
-![Header](https://github.com/Glebbs/Glebbs/blob/main/Banner.png)
+![Header](https://github.com/Glebbs/Glebbs/blob/main/Header.png)
 
 ## A few about me:
 1) I'm a beginner Computer Vision Engineer
